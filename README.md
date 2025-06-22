@@ -1,8 +1,8 @@
 # Smart Autonomous Robot for Red Ball Collection  
 _International PBL Project_
 
-![Robot Prototype](https://github.com/ChangShaoYang/PBL2023_Team3/blob/main/docs/prototype.jpg?raw=true)
-*Figure: Final robot prototype used in testing and demonstration*
+![Robot](https://github.com/ChangShaoYang/PBL2023_Team3/blob/main/docs/robot.jpg?raw=true)
+*Figure: Final used in testing and demonstration*
 
 ---
 
@@ -79,7 +79,7 @@ The robot combines hardware integration and autonomous behavior logic, with a fo
 
 ## 🧠 Sample Logic Diagram (3D Visual)
 
-![3D Design Concept](docs/13835_0.jpg)  
+![3D Design Concept](https://github.com/ChangShaoYang/PBL2023_Team3/blob/main/docs/prototype.jpg?raw=true)
 *Figure: Simulation of pick-up and dump motion mechanism*
 
 ---
