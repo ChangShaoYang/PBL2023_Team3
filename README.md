@@ -1,7 +1,7 @@
 # Smart Autonomous Robot for Red Ball Collection  
 _International PBL Project_
 
-![Robot Prototype](docs/13836_0.jpg)  
+![Robot Prototype]([docs/13836_0.jpg])  
 *Figure: Final robot prototype used in testing and demonstration*
 
 ---
