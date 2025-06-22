@@ -49,10 +49,15 @@ The robot combines hardware integration and autonomous behavior logic, with a fo
 ## 📁 Project Structure
 
 ├── code/ # Arduino source code
+
 │ └── red_ball_robot.ino # Main logic (included below)
+
 ├── docs/
+
 │ ├── robot_0.jpg # Robot image
+
 │ ├── prototype_0.jpg # prototype 3D design
+
 ├── README.md # This document
 
 
