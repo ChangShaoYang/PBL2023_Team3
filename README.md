@@ -1,7 +1,7 @@
 # Smart Autonomous Robot for Red Ball Collection  
 _International PBL Project_
 
-![Robot Prototype]([docs/13836_0.jpg])  
+![Robot Prototype](https://github.com/ChangShaoYang/PBL2023_Team3/blob/main/docs/prototype.jpg?raw=true)
 *Figure: Final robot prototype used in testing and demonstration*
 
 ---
