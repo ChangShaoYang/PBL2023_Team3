@@ -77,7 +77,7 @@ The robot combines hardware integration and autonomous behavior logic, with a fo
 
 ---
 
-## 🧠 Sample Logic Diagram (3D Visual)
+## 🧠 Sample (3D Visual)
 
 ![3D Design Concept](https://github.com/ChangShaoYang/PBL2023_Team3/blob/main/docs/prototype.jpg?raw=true)
 *Figure: Simulation of pick-up and dump motion mechanism*
